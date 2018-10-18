@@ -1,4 +1,4 @@
-package org.mcgill.ecse321.designpatterns.templatemethod;
+package ca.mcgill.ecse321.designpatterns.templatemethod;
 
 public class AndroidCompiler extends CrossCompiler {
 
