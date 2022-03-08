@@ -1,4 +1,4 @@
-package ca.mcgill.ecse321.designpatterns.templatemethod;
+package ca.uwaterloo.cs446.designpatterns.templatemethod;
 
 public abstract class CrossCompiler {
 	public void crossCompile() {
